@@ -1,0 +1,6 @@
+1) A post should contain 1 or more
+(maximum 4) photos with a small description regarding the whole experience.
+
+2)A user should be 
+able to edit these posts once posted, or even delete them if they want
+3)A usershould have a profile. The profile should display all the posts made by the user
